@@ -5,6 +5,7 @@
 [![Shell Script](https://img.shields.io/badge/Shell-Script-green.svg)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://www.android.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Page Views](https://visitor-badge.laobi.icu/badge?page_id=Aniyomi_Anime_Organizer&left_text=Page%20Views&left_color=%23374151&right_color=%23f97316&format=true)](/)
 
 ---
 
